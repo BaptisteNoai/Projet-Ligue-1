@@ -1,0 +1,12 @@
+# Fichiers sensibles
+Backup-codes-*.txt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Système
+desktop.ini
+Thumbs.db
+.DS_Store
