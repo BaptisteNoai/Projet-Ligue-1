@@ -1,4 +1,6 @@
-# Prédiction des résultats de Ligue 1 (saison 2025-2026)
+# Projet prédiction Ligue 1
+
+Prédiction des résultats de Ligue 1 pour la saison 2025-2026.
 
 Projet d'algorithmes d'apprentissage réalisé par **Baptiste Noailhac** et **Seydoux**.
 
